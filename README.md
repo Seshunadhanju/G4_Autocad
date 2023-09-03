@@ -19,6 +19,13 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the AutoCad course for Mechanical Engineers, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/136)
 
+## Students Report
+| Student Name | Report Link |
+|--------------|-------------|
+|Ramanjaneyulu |[CLICK HERE](https://github.com/sure-trust/G4_Autocad/blob/main/Course%20Report/ramanjaneyulu.md)|
+|Seshunadh     |[CLICK HERE](https://github.com/sure-trust/G4_Autocad/blob/main/Course%20Report/Seshu.md)|
+|vinay krishna |[CLICK HERE](https://github.com/sure-trust/G4_Autocad/blob/main/Course%20Report/vinay%20krishna%20course%20report.md)|
+
 ## Repository Description
 
 This repository is designed to support the G4 AutoCad & Solidworks training program for Mechanical Engineers at SURE Trust. It follows the below mentioned organization structure:

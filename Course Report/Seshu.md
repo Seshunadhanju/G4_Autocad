@@ -27,6 +27,7 @@ Below is a table summarizing the mini projects and final project completed durin
 | Mini Project-2(Screw Jack): | https://github.com/Seshunadhanju/G4_Autocad/tree/main/Mini%20Projects/Seshunadh/ass5
 
 | Final Project-1(Robotic Arm):     | https://github.com/Seshunadhanju/G4_Autocad/tree/main/Final%20Capstone%20Project/Seshunadh/final%20project-1
+
 | Final Project-2(Steam Engine):     | https://github.com/Seshunadhanju/G4_Autocad/tree/main/Final%20Capstone%20Project/Seshunadh/final-3
 |
 
